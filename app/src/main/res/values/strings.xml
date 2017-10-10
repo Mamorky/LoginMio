@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginMio</string>
+    <string name="txvSignIn">Acceder</string>
+    <string name="txvUser">Usuario/Correo</string>
+    <string name="txvPassword">Contraseña</string>
+    <string name="chkRemember">Recuerdame</string>
+    <string name="txvSignUp"><u>Registrarse</u></string>
+    <string name="btnSignIn">Iniciar Sesión</string>
+    <string name="btnGoogle">Google</string>
+    <string name="btnFacebook">Facebook</string>
+</resources>

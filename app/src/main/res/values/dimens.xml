@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="llyPrincipalPadding">35dp</dimen>
+    <dimen name="txvSignInMargin">25dp</dimen>
+    <dimen name="edtUserMargin">25dp</dimen>
+    <dimen name="edtPasswordMargin">8dp</dimen>
+    <dimen name="llyRememberMargin">8dp</dimen>
+    <dimen name="btnSignInMargin">75dp</dimen>
+    <dimen name="btnGoogleMargin">9dp</dimen>
+</resources>
